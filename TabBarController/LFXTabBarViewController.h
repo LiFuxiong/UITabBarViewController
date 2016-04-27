@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LFXTabBarViewController.h
 //  TabBarController
 //
 //  Created by apple on 16/4/27.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LFXTabBarViewController : UITabBarController
 
 @end
-
